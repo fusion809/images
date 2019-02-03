@@ -5,3 +5,5 @@ All original content (like what I have written in this blog) is licensed under G
 Images depicting proprietary games or software, or their logos are usually only displayed here as fair use. They are often proprietary-licensed and I only depict them here to show prospective users of said software what the software looks like and its logo. 
 
 Some images contain wallpapers that are licensed under Creative Commons licenses, e.g. i3/i3-4.16-opensuse-tumbleweed-20181128.png, contains this wallpaper: https://www.opendesktop.org/p/1276706/.
+
+favicon.png is [Tux](https://en.wikipedia.org/wiki/Tux_(mascot)) and was created by [Larry Ewing](mailto:lewing@isc.tamu.edu) using GIMP.
