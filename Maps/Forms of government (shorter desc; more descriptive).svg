@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="920.80994"
+   height="941.80609"
    id="svg2985"
    version="1.1"
-   viewBox="82.992 45.607 2507.2307 2784.3433"
+   viewBox="82.992 45.607 2507.2307 2847.8314"
    width="912.98615"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="Forms of government (shorter desc; more descriptive).svg"
@@ -39,13 +39,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="956"
+     inkscape:window-width="1916"
      inkscape:window-height="1021"
      id="namedview2988"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="178.80502"
-     inkscape:cy="578.46932"
+     inkscape:zoom="1"
+     inkscape:cx="208.97498"
+     inkscape:cy="272.04038"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="0"
@@ -274,7 +274,7 @@
      id="a6621"
      xlink:href=""
      xlink:title=""
-     transform="translate(0.15658444)">
+     transform="translate(0.15658616)">
     <path
        style="color:#000000;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:1"
        inkscape:connector-curvature="0"
@@ -286,7 +286,7 @@
      id="a6583"
      xlink:href="https://en.wikipedia.org/wiki/Sudan"
      xlink:title="Republic of the Sudan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#6b8e23;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -301,7 +301,7 @@
      id="a6587"
      xlink:href="https://en.wikipedia.org/wiki/South_Sudan"
      xlink:title="Republic of South Sudan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -316,7 +316,7 @@
      class="landxx coastxx ge"
      id="ge"
      style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title15">Georgia</title>
     <path
@@ -362,7 +362,7 @@
      id="a7646"
      xlink:href="https://en.wikipedia.org/wiki/Peru"
      xlink:title="Republic of Peru"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#3355dd;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -377,7 +377,7 @@
      id="a7130"
      xlink:href="https://en.wikipedia.org/wiki/Burkina_Faso"
      xlink:title="Burkina Faso"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -392,7 +392,7 @@
      id="a8181"
      xlink:href="https://en.wikipedia.org/wiki/France"
      xlink:title="French Republic"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-14.614351,-16.12956)"
        id="fr">
@@ -528,7 +528,7 @@
      xlink:href="https://en.wikipedia.org/wiki/Libya"
      xlink:title="Libya"
      xlink:show="Libya"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -543,7 +543,7 @@
      id="a6570"
      xlink:href="https://en.wikipedia.org/wiki/Belarus"
      xlink:title="Republic of Belarus"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -558,7 +558,7 @@
      id="a8129"
      xlink:href="https://en.wikipedia.org/wiki/Pakistan"
      xlink:title="Islamic Republic of Pakistan"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -573,7 +573,7 @@
      id="a7713"
      xlink:href="https://en.wikipedia.org/wiki/Indonesia"
      xlink:title="Republic of Indonesia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -1265,7 +1265,7 @@
      id="a7279"
      xlink:href="https://en.wikipedia.org/wiki/Yemen"
      xlink:title="Republic of Yemen"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -1305,7 +1305,7 @@
      id="a6624"
      xlink:href="https://en.wikipedia.org/wiki/Madagascar"
      xlink:title="Republic of Madagascar"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -1331,7 +1331,7 @@
      id="a7651"
      xlink:title="Plurinational State of Bolivia"
      xlink:href="https://en.wikipedia.org/wiki/Bolivia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -1353,7 +1353,7 @@
      id="a7349"
      xlink:href="https://en.wikipedia.org/wiki/Serbia"
      xlink:title="Republic of Serbia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="rs">
@@ -1391,7 +1391,7 @@
      id="a7078"
      xlink:href="https://en.wikipedia.org/wiki/Ivory_Coast"
      xlink:title="Republic of Côte d'Ivoire"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1406,7 +1406,7 @@
      id="a2863"
      xlink:href="https://en.wikipedia.org/wiki/Algeria"
      xlink:title="People's Democratic Republic of Algeria"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1421,7 +1421,7 @@
      id="a7050"
      xlink:href="https://en.wikipedia.org/wiki/Switzerland"
      xlink:title="Swiss Confederation"
-     transform="translate(16.787462)"
+     transform="translate(16.787464)"
      style="fill:#66bbe8;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
@@ -1437,7 +1437,7 @@
      id="a6996"
      xlink:href="https://en.wikipedia.org/wiki/Cameroon"
      xlink:title="Republic of Cameroon"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1452,7 +1452,7 @@
      id="a7345"
      xlink:href="https://en.wikipedia.org/wiki/North_Macedonia"
      xlink:title="Republic of North Macedonia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1467,7 +1467,7 @@
      id="a6591"
      xlink:href="https://en.wikipedia.org/wiki/Botswana"
      xlink:title="Republic of Botswana"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#66bb66;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1482,7 +1482,7 @@
      id="a7020"
      xlink:href="https://en.wikipedia.org/wiki/Kenya"
      xlink:title="Republic of Kenya"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1497,7 +1497,7 @@
      id="a8705"
      xlink:href="https://en.wikipedia.org/wiki/Taiwan"
      xlink:title="Republic of China"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -1523,7 +1523,7 @@
      id="a7288"
      xlink:href="https://en.wikipedia.org/wiki/Jordan"
      xlink:title="Hashemite Kingdom of Jordan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ee1af9;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1538,7 +1538,7 @@
      id="a8058"
      xlink:href="https://en.wikipedia.org/wiki/Mexico"
      xlink:title="United Mexican States"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -1613,7 +1613,8 @@
   <a
      id="a7590"
      xlink:href="https://en.wikipedia.org/wiki/United_Arab_Emirates"
-     xlink:title="United Arab Emirates">
+     xlink:title="United Arab Emirates"
+     transform="translate(1.7193449e-6)">
     <g
        style="opacity:1;fill:#801a80;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-27.722133,-61.20406)"
@@ -1638,7 +1639,7 @@
      id="a7718"
      xlink:href="https://en.wikipedia.org/wiki/Belize"
      xlink:title="Belize"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -1663,7 +1664,7 @@
      id="a8077"
      xlink:href="https://en.wikipedia.org/wiki/Brazil"
      xlink:title="Federative Republic of Brazil"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -1835,7 +1836,7 @@
      id="a7086"
      xlink:href="https://en.wikipedia.org/wiki/Sierra_Leone"
      xlink:title="Republic of Sierra Leone"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -1859,7 +1860,7 @@
      id="a7120"
      xlink:href="https://en.wikipedia.org/wiki/Mali"
      xlink:title="Republic of Mali"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1874,7 +1875,7 @@
      id="a8141"
      xlink:href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
      xlink:title="Democratic Republic of the Congo"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1889,7 +1890,7 @@
      id="a8238"
      xlink:href="https://en.wikipedia.org/wiki/Italy"
      xlink:title="Italian Republic"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -1925,7 +1926,7 @@
      id="a8883"
      xlink:href="https://en.wikipedia.org/wiki/Somalia"
      xlink:title="Federal Republic of Somalia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-14.614351,-16.12956)"
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
@@ -1951,7 +1952,7 @@
      id="a7203"
      xlink:href="https://en.wikipedia.org/wiki/Afghanistan"
      xlink:title="Islamic Republic of Afghanistan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -1966,7 +1967,7 @@
      id="a8841"
      xlink:href="https://en.wikipedia.org/wiki/Bangladesh"
      xlink:title="People's Republic of Bangladesh"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2026,7 +2027,7 @@
      id="a7744"
      xlink:href="https://en.wikipedia.org/wiki/Dominican_Republic"
      xlink:title="Dominican Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -2050,7 +2051,7 @@
      id="a7098"
      xlink:href="https://en.wikipedia.org/wiki/Guinea-Bissau"
      xlink:title="Republic of Guinea-Bissau"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -2105,7 +2106,7 @@
      id="a7074"
      xlink:href="https://en.wikipedia.org/wiki/Ghana"
      xlink:title="Republic of Ghana"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -2120,7 +2121,7 @@
      id="a7142"
      xlink:href="https://en.wikipedia.org/wiki/Austria"
      xlink:title="Republic of Austria"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -2135,7 +2136,7 @@
      id="a8666"
      xlink:href="https://en.wikipedia.org/wiki/Sweden"
      xlink:title="Kingdom of Sweden"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2199,7 +2200,7 @@
      id="a8272"
      xlink:href="https://en.wikipedia.org/wiki/Turkey"
      xlink:title="Republic of Turkey"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        transform="translate(-44.516051,-61.20406)"
@@ -2221,7 +2222,7 @@
      id="a7054"
      xlink:href="https://en.wikipedia.org/wiki/Uganda"
      xlink:title="Republic of Uganda"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -2236,7 +2237,7 @@
      id="a6595"
      xlink:href="https://en.wikipedia.org/wiki/Mozambique"
      xlink:title="Republic of Mozambique"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-43.320495,45.87824)"
@@ -2271,7 +2272,7 @@
      id="a7650"
      xlink:href="https://en.wikipedia.org/wiki/Japan"
      xlink:title="Japan"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2433,7 +2434,7 @@
      id="a7600"
      xlink:href="https://en.wikipedia.org/wiki/New_Zealand"
      xlink:title="New Zealand"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2492,7 +2493,7 @@
      id="a8693"
      xlink:href="https://en.wikipedia.org/wiki/Cuba"
      xlink:title="Republic of Cuba"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2538,7 +2539,7 @@
      id="a7661"
      xlink:href="https://en.wikipedia.org/wiki/Venezuela"
      xlink:title="Bolivarian Republic of Venezuela"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -2606,7 +2607,7 @@
      id="a7038"
      xlink:href="https://en.wikipedia.org/wiki/Portugal"
      xlink:title="Portuguese Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -2661,7 +2662,7 @@
      id="a8937"
      xlink:href="https://en.wikipedia.org/wiki/Colombia"
      xlink:title="Republic of Colombia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -2676,7 +2677,7 @@
      id="a7124"
      xlink:href="https://en.wikipedia.org/wiki/Mauritania"
      xlink:title="Islamic Republic of Mauritania"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -2701,7 +2702,7 @@
      id="a6607"
      xlink:href="https://en.wikipedia.org/wiki/Angola"
      xlink:title="Republic of Angola"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        transform="translate(-44.509595,-61.20406)"
@@ -2723,7 +2724,7 @@
      id="a8229"
      xlink:href="https://en.wikipedia.org/wiki/Germany"
      xlink:title="Federal Republic of Germany"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2759,7 +2760,7 @@
      id="a8712"
      xlink:href="https://en.wikipedia.org/wiki/Thailand"
      xlink:title="Kingdom of Thailand"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#6b8e23;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2857,7 +2858,7 @@
      id="a7385"
      xlink:href="https://en.wikipedia.org/wiki/Australia"
      xlink:title="Commonwealth of Australia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -2971,7 +2972,7 @@
      id="a7613"
      xlink:href="https://en.wikipedia.org/wiki/Papua_New_Guinea"
      xlink:title="Independent State of Papua New Guinea"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -3151,7 +3152,7 @@
      id="a8953"
      xlink:href="https://en.wikipedia.org/wiki/Iraq"
      xlink:title="Republic of Iraq"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -3166,7 +3167,7 @@
      id="a7373"
      xlink:href="https://en.wikipedia.org/wiki/Croatia"
      xlink:title="Republic of Croatia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -3256,7 +3257,7 @@
      id="a6821"
      xlink:href="https://en.wikipedia.org/wiki/Denmark"
      xlink:title="Kingdom of Denmark"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
@@ -3858,7 +3859,7 @@
      id="a7062"
      xlink:href="https://en.wikipedia.org/wiki/Niger"
      xlink:title="Republic of the Niger"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -3873,7 +3874,7 @@
      id="a8918"
      xlink:href="https://en.wikipedia.org/wiki/Denmark"
      xlink:title="Kingdom of Denmark"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -3949,7 +3950,7 @@
      id="a7411"
      xlink:href="https://en.wikipedia.org/wiki/Latvia"
      xlink:title="Republic of Latvia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -3964,7 +3965,7 @@
      id="a7191"
      xlink:href="https://en.wikipedia.org/wiki/Romania"
      xlink:title="Romania"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -3979,7 +3980,7 @@
      id="a6613"
      xlink:href="https://en.wikipedia.org/wiki/Zambia"
      xlink:title="Republic of Zambia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -3994,9 +3995,10 @@
      id="a8817"
      xlink:href="https://en.wikipedia.org/wiki/Myanmar"
      xlink:title="Republic of the Union of Myanmar"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)"
+     style="fill:#009292;fill-opacity:1">
     <g
-       style="opacity:1;fill:#66bb66;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
+       style="opacity:1;fill:#009292;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
        id="mm"
        class="landxx coastxx mm">
@@ -4004,102 +4006,102 @@
          id="title850">Myanmar</title>
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4568"
          d="m 1997.858,627.768 c -0.05,0.371 0.116,0.636 0.5,0.792 -0.167,-0.264 -0.333,-0.529 -0.5,-0.792" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4570"
          d="m 1999.438,631.584 c 0.333,0.479 0.623,0.983 0.87,1.512 -0.21,-0.819 -0.559,-1.62 -1.16,-2.231 0.097,0.239 0.194,0.479 0.29,0.719" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4572"
          d="m 2003.118,632.016 c -0.253,0.578 0.492,1.23 0.86,1.513 -0.023,-0.616 -0.379,-1.153 -0.86,-1.513" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4574"
          d="m 2005.918,641.231 c -0.394,0.021 -0.753,0.141 -1.08,0.36 2.338,2.691 2.365,-0.41 1.08,-0.36" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4576"
          d="m 2007.868,637.056 c -0.421,-0.847 -1.465,-0.877 -2.021,-1.584 -1.045,1.065 1.05,3.05 2.021,1.584" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4578"
          d="m 2016.218,664.056 c -0.484,0.531 -2.258,2.198 -1.229,2.952 0.738,-0.779 1.812,-1.762 1.229,-2.952" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4580"
          d="m 2017.878,666.864 c -0.194,0.342 -0.348,0.237 0,0.72 0,-0.24 0,-0.48 0,-0.72" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4582"
          d="m 2037.678,661.824 c -0.389,0.172 -0.513,1.728 -0.015,1.728 0.975,0 0.944,-1.607 0.015,-1.728" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4584"
          d="m 2044.729,698.256 c 0.207,-0.224 0.327,-0.487 0.359,-0.792 -0.855,-0.141 -0.975,0.123 -0.359,0.792" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4586"
          d="m 2045.668,703.728 c 0.023,-0.543 -0.146,-1.022 -0.51,-1.439 0.205,0.466 0.375,0.946 0.51,1.439" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4588"
          d="m 2045.448,699.336 c 0.144,0 0.286,0 0.43,0 -0.182,-0.292 -0.398,-0.557 -0.649,-0.792 0.073,0.264 0.146,0.528 0.219,0.792" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4590"
          d="m 2046.458,692.352 c 0.456,-0.575 0.202,-1.168 -0.43,-1.439 0.139,0.481 0.282,0.96 0.43,1.439" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4592"
          d="m 2048.038,711.864 c -0.094,-0.843 -0.505,-1.613 -1.22,-2.088 -0.187,0.214 -0.329,0.454 -0.43,0.72 0.986,-0.477 1.352,0.714 1.65,1.368" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4594"
          d="m 2046.678,705.528 c 1.211,-0.083 1.095,-2.277 0.57,-2.952 -0.247,0.971 -0.437,1.96 -0.57,2.952" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4596"
          d="m 2047.178,697.608 c 0.368,0.525 1.997,-2.688 -0.289,-2.232 0.14,0.737 0.442,1.466 0.289,2.232" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4598"
          d="m 2047.538,718.128 c 0.047,0.24 0.093,0.479 0.14,0.72 0.449,-0.286 0.666,-0.694 0.65,-1.224 -0.28,0.142 -0.543,0.31 -0.79,0.504" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4600"
          d="m 2048.479,704.16 c 0.168,0.416 0.479,0.632 0.93,0.647 0.359,-2.339 -2.246,-2.784 -0.93,-0.647" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4602"
          d="m 2048.398,700.776 c 0.197,0.334 0.391,0.67 0.58,1.008 0.283,-0.168 0.522,-0.385 0.72,-0.648 -0.58,-0.226 -1.061,-0.586 -1.44,-1.08 0.047,0.24 0.094,0.48 0.14,0.72" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#66bb66;fill-opacity:1"
+         style="fill:#009292;fill-opacity:1"
          id="path4604"
          d="m 2048.328,697.176 c 0.145,-0.386 0.389,-0.243 0.07,-0.792 -0.023,0.263 -0.046,0.528 -0.07,0.792" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#66bb66;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
+         style="opacity:1;fill:#009292;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
          id="path4608"
          d="m 1992.528,621.288 c 0.071,-0.554 -0.2223,-2.04514 0.5967,-2.13713 1.015,-0.114 1.5434,0.89737 2.8633,1.20113 -0.7691,-1.85436 -1.0355,-3.85719 -1.3843,-5.81359 -0.045,-0.0246 0.8713,-0.75636 0.6633,-1.60241 0.733,0.262 1.138,1.815 2.046,1.53 0.65,-0.204 0.352,-1.48 0.475,-1.963 1.51,0.881 0.864,-1.338 0.587,-1.999 -0.779,-1.86 -0.622,-3.305 -0.877,-5.273 1.486,1.103 1.543,-1.167 1.516,-2.103 -0.068,-2.307 -0.502,-4.292 -1.296,-6.465 0.346,-0.025 0.651,0.075 0.917,0.299 0.683,0.458 0.64,0.123 1.457,-0.022 0.814,-0.146 3.252,0.876 3.887,1.38 -0.028,-3.304 4.521,-9.193 1.958,-11.766 -1.36,-1.365 1.522,-3.268 1.832,-4.632 0.36,-1.589 0.84,-2.508 0.048,-3.915 -0.651,-1.158 -0.851,-3.383 0.412,-4.24 0.391,-0.267 1.579,0.086 1.65,-0.606 0.065,-0.646 1.356,-1.075 1.854,-1.549 0.629,-0.6 0.972,-1.21 1.393,-1.961 0.714,-1.277 2.569,-1.091 3.813,-1.283 0.598,-0.092 1.328,-0.511 1.856,-0.006 0.713,0.681 1.447,2.271 2.753,1.733 -0.203,-1.106 -1.289,-1.641 -1.958,-2.429 -1.224,-1.441 -0.405,-2.551 0.691,-3.648 1.576,-1.574 0.7469,-1.32459 0.7469,-3.02559 0,-0.603 0.4856,-0.45197 0.4286,-1.00997 -0.07,-0.693 0.5685,-1.65744 0.5905,-2.34244 1.346,1.496 4.048,1.738 5.138,3.649 0.396,0.693 0.272,1.548 0.623,2.255 0.476,0.958 1.183,1.778 1.659,2.736 0.56,-0.199 0.864,-0.649 0.57,-1.225 2.986,1.388 3.2391,4.42469 4.0522,7.37894 0.401,1.457 0.5355,2.66063 0.5792,4.23306 0.017,0.62418 0.7086,2.688 -0.8814,2.068 0.3858,0.60037 2.7065,2.97974 0.3246,2.34187 -0.368,-0.0985 -1.0601,1.13257 -0.9981,1.42757 0.198,0.94 -1.0635,0.73056 -1.5555,0.69556 -0.15,0.529 -0.264,4.479 -1.95,2.952 0.071,1.332 -0.629,2.328 0.149,3.6 -1.341,0.105 -1.1998,0.93881 -1.1438,1.99081 0.057,1.09 0.8794,1.19313 1.2584,2.03713 0.165,0.368 0.7209,1.52319 0.5539,1.93719 -0.29,0.72 -1.4155,1.65687 -0.4975,2.38187 0.429,0.338 2.888,-1.609 3.307,-1.844 1.814,-1.02 3.984,0.619 5.732,-0.67 0.278,1.125 -1.188,1.568 -0.815,2.686 0.211,0.634 0.7271,0.95 1.1581,1.418 0.546,0.591 -0.2147,1.24252 0.1589,1.578 1.2607,1.13216 0.903,2.71997 2.0111,3.21653 1.5118,0.67747 2.9103,-0.7195 4.013,1.90147 -1.6636,-0.1241 -0.9804,2.45318 -0.8492,3.46491 0.143,1.10315 -1.7094,3.84702 -0.027,3.65234 0.9657,-0.11173 4.0442,-0.54173 5.171,0.48341 1.2016,1.0931 -0.5671,3.09534 1.8499,3.12734 -0.329,0.502 -0.069,1.426 0.275,1.853 0.559,0.693 1.086,-0.815 1.865,-0.313 1.607,1.036 3.7,-1.498 4.919,-2.403 0.087,1.255 1.046,1.957 -0.119,3.002 -0.537,0.482 -1.7505,0.84813 -2.0655,1.40313 -0.247,0.436 -1.8105,4.10187 -0.3355,3.22687 -0.114,1.069 -1.821,0.53 -2.449,1.008 -1.096,0.834 -0.724,2.505 -1.011,3.672 -0.6457,-1.434 -2.612,0.2 -4.39,0.288 0.469,0.606 0.9587,1.22797 0.1727,1.58097 -0.778,0.35 -1.8163,0.20994 -2.5393,0.26894 -0.9,0.075 -0.3726,1.69603 -0.5366,2.28603 -0.184,0.661 -0.8155,0.76183 -1.2908,0.44125 -0.467,-0.31499 -1.497,0.74907 -2.4461,0.90487 -0.3298,0.0541 -3.2524,-0.59182 -3.2443,-0.60046 0.2969,-0.3155 -1.7177,2.02669 -1.583,3.13953 0.069,0.57185 0.3848,1.00815 0.4776,1.54215 0.1262,0.72619 -0.7035,1.84747 -0.5429,2.5505 0.2132,0.933 1.1944,1.94741 0.5494,2.91441 -0.5824,0.87309 -2.5137,0.99381 -3.0567,-0.0512 0.304,1.065 0.958,3.031 2.45,2.592 -0.13,0.679 0.3492,1.2281 0.7106,1.73647 0.5687,0.8 0.2964,1.64388 0.5531,2.43953 0.4796,1.48659 2.5289,3.11368 3.4523,4.237 1.1039,1.34288 2.5825,1.77035 3.424,3.827 0.6843,1.67232 0.866,3.537 2.08,5.04 0.399,-0.441 0.689,-0.945 0.87,-1.513 0.909,0.749 0.7578,2.28536 -0.062,2.952 -0.8228,0.66884 -1.8416,-0.0644 -1.4467,1.848 0.2004,0.97045 0.6554,2.83552 0.5368,3.91259 -0.094,0.85259 -1.5968,0.72041 -1.3388,1.72841 -0.697,-0.629 -1.1168,-0.11547 -1.2708,0.65153 -0.22,1.099 0.3534,2.50135 0.897,3.426 1.4722,2.50441 3.9823,4.30146 5.5801,6.31647 1.7098,2.1562 2.6433,4.38328 2.3144,6.87228 -0.1514,1.14529 -0.3703,1.17056 0.1783,2.46672 0.5202,1.22892 0.685,1.82183 1.4428,2.9 0.7535,1.07199 1.2361,1.9545 1.3713,3.09353 0.1441,1.21351 1.2488,3.28274 1.5587,3.97141 0.5428,1.20622 -0.9925,3.38555 -1.9281,4.83206 -0.8163,1.26197 -1.7566,2.48224 -3.0193,4.69119 -0.5854,1.02397 0.09,1.603 -0.352,2.487 -0.652,1.299 -0.723,2.64481 -1.488,3.93981 -0.861,-1.354 -0.7374,-3.344 -1.0954,-4.863 -0.146,-0.621 -0.479,-1.156 0.136,-1.538 0.752,-0.465 0.178,-0.744 0.539,-1.322 0.777,-1.245 0.947,-2.736 0.65,-4.197 -0.141,-0.692 -0.566,-2.989 0.685,-2.985 -0.199,-0.333 -0.296,-0.693 -0.29,-1.08 -0.349,0.483 -0.858,0.859 -1.439,1.008 -0.179,-1.028 1.237,-1.588 -0.221,-1.439 1.667,-0.794 -0.775,-2.05 0.58,-2.809 -0.597,0.158 -1.1,-0.151 -1.3,-0.72 0.395,-0.059 0.755,-0.203 1.08,-0.433 -0.652,-0.352 -1.103,-1.133 -0.069,-1.367 -0.889,-0.295 -0.352,-1.159 -0.486,-1.959 -0.224,-1.33 -0.728,-2.728 -1.24,-3.973 -0.539,-1.309 -1.333,-2.562 -1.968,-3.831 -0.604,-1.209 -0.661,-2.669 -1.486,-3.773 0.382,1.029 0.856,3.382 0.07,4.319 0.277,-0.853 -0.456,-1.616 -0.528,-2.437 -0.069,-0.774 -0.092,-2.042 -0.271,-2.747 -0.17,-0.669 -2.918,-5.397 -1.221,-4.464 -0.07,-0.286 -0.19,-0.55 -0.359,-0.792 -0.24,0.144 -0.48,0.288 -0.721,0.432 -1.239,-3.095 -0.962,-6.559 -2.096,-9.643 -0.22,-0.597 -0.754,-0.921 -1.017,-1.473 -0.234,-0.492 0.034,-1.071 0.01,-1.587 -0.05,-0.944 -0.72,-2.788 0.517,-3.28 -0.796,0.127 -2.195,0.678 -2.789,-0.099 -1.082,-1.417 -1.939,-2.975 -2.041,-4.797 -0.71,0.474 -0.572,-0.565 -1.177,-1.121 -0.522,-0.479 -1.195,-0.894 -1.413,-1.615 -0.146,0.183 0.113,1.736 0.107,2.09 -0.018,1.219 0.722,2.466 0.072,3.741 -0.469,0.924 -1.067,2.206 -2.26,2.304 -1.225,0.102 -2.63,-1.555 -1.729,-2.664 -1.423,0.357 -0.192,1.404 0.188,2.279 0.526,1.211 -0.751,2.596 -1.849,1.465 1.174,0.826 -1.157,2.293 -2.021,1.439 0.293,1.104 -0.583,4.851 -2.395,4.164 -0.935,-0.354 -0.066,-2.843 -0.265,-3.588 -0.045,0.068 -0.983,3.496 -0.5,1.224 -0.296,0.615 -0.416,1.264 -0.36,1.944 -0.899,-0.443 -1.147,-2.403 -0.439,-2.952 -1.064,-0.695 -0.644,4.324 -2.076,3.074 -0.682,-0.595 -0.088,-3.847 0.496,-4.154 -1.05,0.413 -1.338,2.563 -1.87,3.528 -0.313,-0.186 -0.576,-0.426 -0.79,-0.72 0.881,-0.369 1,-1.279 1.22,-2.088 -0.413,0.707 -0.581,1.765 -1.58,1.871 1.084,-1.461 0.59,-3.298 0.79,-4.968 -0.144,0.014 -0.286,0.014 -0.43,0 0.56,1.202 -1.072,3.892 -2.191,4.342 -1.618,0.651 -0.307,-6.197 -0.099,-6.956 0.209,-0.762 -0.022,-3.011 0.4,-3.411 1.072,-1.014 -0.098,-3.866 -0.603,-4.984 -0.649,-1.438 -0.431,-3.623 -1.497,-4.802 -0.452,-0.5 -0.714,-1.151 -1.006,-1.748 -0.438,-0.895 -1.623,-1.423 -0.405,-1.665 -0.85,-0.587 -1.87,-0.785 -1.87,-2.027 0,-0.925 0.054,-2.412 -0.439,-3.229 0.118,0.673 0.416,2.223 -0.79,1.367 0.556,0.682 1.005,2.039 0.58,2.881 -1.742,-0.709 -2.807,-2.511 -3.831,-3.989 -0.281,-0.404 0.605,-0.815 0.904,-0.266 0.224,0.413 0.814,0.557 1.229,0.677 0.936,0.271 2.136,-0.227 1.272,-1.369 -0.487,-0.645 -2.671,-1.477 -1.375,-2.397 -0.584,-0.013 -1.16,-0.085 -1.729,-0.216 0.178,-0.489 0.248,-0.993 0.21,-1.512 -0.661,0.323 -1.571,-0.455 -1.938,-0.916 -0.686,-0.861 -1.271,-0.255 -2.232,-0.668 0.334,0.769 0.756,1.5 1.01,2.304 -0.307,-0.495 -0.597,-0.999 -0.87,-1.512 -0.13,0.525 -0.033,1.006 0.29,1.44 -0.859,-1.18 -1.324,-1.92 -0.57,-3.313 -0.334,0.063 -0.67,0.086 -1.01,0.072 0.198,-0.511 0.411,-1.015 0.641,-1.512 -0.14,0.031 -0.257,0.104 -0.351,0.216 -0.146,-0.552 -0.146,-1.104 0,-1.656 -0.5,1.209 -0.421,2.561 -1.01,3.744 -0.963,-0.422 -0.52,-0.948 -0.412,-1.705 0.126,-0.882 -0.887,-1.61 -1.317,-2.255 0.125,0.734 0.556,1.516 0.069,2.231 -0.361,-1.333 -1.3595,-2.41057 -2.503,-3.036 -1.3039,-0.71315 -1.5312,-3.00968 -2.174,-4.521"
          class="landxx mm" />
@@ -4109,7 +4111,7 @@
      id="a8889"
      xlink:href="https://en.wikipedia.org/wiki/Ethiopia"
      xlink:title="Federal Democratic Republic of Ethiopia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4124,7 +4126,7 @@
      id="a7734"
      xlink:href="https://en.wikipedia.org/wiki/Guatemala"
      xlink:title="Republic of Guatemala"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4139,9 +4141,10 @@
      id="a7682"
      xlink:href="https://en.wikipedia.org/wiki/Suriname"
      xlink:title="Republic of Suriname"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)"
+     style="fill:#009292;fill-opacity:1">
     <path
-       style="opacity:1;fill:#66bb66;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
+       style="opacity:1;fill:#009292;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
        id="sr"
        d="m 815.16841,712.57997 c -0.823,-0.489 -2.21924,-3.5145 -2.20824,-4.4945 0.015,-1.435 0.17309,-5.0076 0.17508,-6.3097 0.004,-2.4457 3.16698,-1.7699 4.77352,-1.7739 0.75801,0 2.16318,-2.0669 0.57964,-2.52408 1.624,-1.947 0.981,-6.2278 4.51,-5.7398 1.111,0.154 7.061,0.672 6.5,2.625 0.777,-1.534 -0.432,-2.602 2.041,-2.592 0.915,0 3.801,-0.12 3.859,1.297 0.477,-0.603 1.403,-0.265 2.02,-0.289 -0.152,-0.105 -2.143,-0.84 -1.848,-1.042 1.316,-0.901 4.756,0.484 6.177,0.723 2.485,0.417 2.374,2.153 1.291,3.992 -1.183,2.00598 -2.811,3.14698 -2.716,5.69498 0.083,2.228 -0.158,4.881 0.923,6.911 0.858,1.612 2.981,2.971 1.837,5.047 -0.392,0.711 -0.80241,1.512 -1.00241,2.327 -0.195,0.796 -0.0521,1.9029 -0.28163,2.7331 -0.55799,2.0185 -2.11648,4.2659 -2.78158,4.299 -0.56711,0.028 -2.54938,-1.4161 -2.82738,-1.7651 -0.967,-1.217 -3.044,0.259 -4.435,0.513 -1.122,0.205 -1.316,0.453 -2.321,-0.096 -1.057,-0.577 -0.97618,-0.1109 -1.446,0.616 -1.03731,1.605 0.3716,1.522 0.683,3.29 0.3931,2.2319 -3.48763,0.991 -4.35863,0.439 -0.635,-0.402 -1.74143,-0.9702 -2.27355,-1.4765 -0.70501,-0.6707 -0.74241,-1.2023 -0.73327,-1.8 0.0237,-1.5521 -2.47355,-3.5835 -2.47555,-5.1125 0,-0.577 -0.24882,-3.5678 -0.99182,-3.6648 -0.531,-0.069 -1.4213,0.4905 -1.86618,-0.067 -0.44761,-0.5612 -0.45245,-1.3701 -0.803,-1.76"
@@ -4154,7 +4157,7 @@
      id="a7034"
      xlink:href="https://en.wikipedia.org/wiki/Western_Sahara"
      xlink:title="Western Sahara"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4169,7 +4172,7 @@
      id="a7138"
      xlink:href="https://en.wikipedia.org/wiki/Czech_Republic"
      xlink:title="Czech Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4184,7 +4187,7 @@
      id="a7058"
      xlink:href="https://en.wikipedia.org/wiki/Chad"
      xlink:title="Republic of Chad"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4199,7 +4202,7 @@
      id="a7359"
      xlink:href="https://en.wikipedia.org/wiki/Albania"
      xlink:title="Republic of Albania"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4214,7 +4217,7 @@
      id="a8893"
      xlink:href="https://en.wikipedia.org/wiki/Finland"
      xlink:title="Republic of Finland"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -4306,7 +4309,7 @@
      id="a7302"
      xlink:href="https://en.wikipedia.org/wiki/Syria"
      xlink:title="Syrian Arab Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4321,7 +4324,7 @@
      id="a7268"
      xlink:href="https://en.wikipedia.org/wiki/Kyrgyzstan"
      xlink:title="Kyrgyz Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4335,7 +4338,7 @@
   <g
      class="landxx coastxx sb"
      id="sb"
-     transform="translate(-27.722133,-61.20406)"
+     transform="translate(-27.722131,-61.20406)"
      style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001">
     <title
        id="title922">Solomon Islands</title>
@@ -4464,7 +4467,7 @@
      id="a7272"
      xlink:href="https://en.wikipedia.org/wiki/Oman"
      xlink:title="Sultanate of Oman"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#801a80;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -4494,7 +4497,7 @@
      id="a7700"
      xlink:href="https://en.wikipedia.org/wiki/Panama"
      xlink:title="Republic of Panama"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -4530,7 +4533,7 @@
      id="a8120"
      xlink:href="https://en.wikipedia.org/wiki/Argentina"
      xlink:title="Argentine Republic"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -4568,7 +4571,7 @@
      id="a8152"
      xlink:href="https://en.wikipedia.org/wiki/United_Kingdom"
      xlink:title="United Kingdom of Great Britain and Northern Ireland"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -4708,7 +4711,7 @@
      id="a7709"
      xlink:href="https://en.wikipedia.org/wiki/Panama"
      xlink:title="Republic of Costa Rica"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4723,7 +4726,7 @@
      id="a7657"
      xlink:href="https://en.wikipedia.org/wiki/Paraguay"
      xlink:title="Republic of Paraguay"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4738,7 +4741,7 @@
      id="a7092"
      xlink:href="https://en.wikipedia.org/wiki/Guinea"
      xlink:title="Republic of Guinea"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -4762,7 +4765,7 @@
      id="a8686"
      xlink:href="https://en.wikipedia.org/wiki/Republic_of_Ireland"
      xlink:title="Republic of Ireland"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -4790,7 +4793,7 @@
      id="a8145"
      xlink:href="https://en.wikipedia.org/wiki/Nigeria"
      xlink:title="Federal Republic of Nigeria"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -4818,7 +4821,7 @@
      class="landxx coastxx tn"
      id="tn"
      style="opacity:1;fill:#f0e847;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title1022">Tunisia</title>
     <path
@@ -4838,7 +4841,7 @@
      xlink:href="https://en.wikipedia.org/wiki/Poland"
      target=""
      xlink:title="Republic of Poland"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#f0e847;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -4853,7 +4856,7 @@
      id="a6603"
      xlink:href="https://en.wikipedia.org/wiki/Namibia"
      xlink:title="Republic of Namibia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -4868,7 +4871,7 @@
      id="a8133"
      xlink:href="https://en.wikipedia.org/wiki/South_Africa"
      xlink:title="Republic of South Africa"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#66bb66;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4883,7 +4886,7 @@
      id="a8879"
      xlink:href="https://en.wikipedia.org/wiki/Egypt"
      xlink:title="Arab Republic of Egypt"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -4898,7 +4901,7 @@
      id="a7012"
      xlink:href="https://en.wikipedia.org/wiki/Tanzania"
      xlink:title="United Republic of Tanzania"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -4930,7 +4933,7 @@
      id="a6574"
      xlink:href="https://en.wikipedia.org/wiki/Saudi_Arabia"
      xlink:title="Kingdom of Saudi Arabia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#801a80;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -4966,7 +4969,7 @@
      id="a8725"
      xlink:href="https://en.wikipedia.org/wiki/Vietnam"
      xlink:title="Socialist Republic of Vietnam"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -5022,7 +5025,7 @@
      id="a7409"
      xlink:href="https://en.wikipedia.org/wiki/Russia"
      xlink:title="Russian Federation"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -5936,7 +5939,7 @@
      id="a7750"
      xlink:href="https://en.wikipedia.org/wiki/Haiti"
      xlink:title="Republic of Haiti"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -5968,7 +5971,7 @@
      id="a7369"
      xlink:href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
      xlink:title="Bosnia and Herzegovina"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -5983,7 +5986,7 @@
      id="a7691"
      xlink:href="https://en.wikipedia.org/wiki/India"
      xlink:title="Republic of India"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-14.614351,-16.12956)"
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
@@ -6047,7 +6050,7 @@
      id="a7207"
      xlink:href="https://en.wikipedia.org/wiki/China"
      xlink:title="People's Republic of China"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="cn">
@@ -6198,7 +6201,7 @@
      id="a8278"
      xlink:href="https://en.wikipedia.org/wiki/Canada"
      xlink:title="Canada"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#c8b396;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -7638,7 +7641,7 @@
      id="a7724"
      xlink:href="https://en.wikipedia.org/wiki/El_Salvador"
      xlink:title="El Salvador"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -7653,7 +7656,7 @@
      id="a7678"
      xlink:href="https://en.wikipedia.org/wiki/Guyana"
      xlink:title="Co-operative Republic of Guyana"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#3355dd;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -7668,7 +7671,7 @@
      id="a7134"
      xlink:href="https://en.wikipedia.org/wiki/Belgium"
      xlink:title="Kingdom of Belgium"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -7683,7 +7686,7 @@
      id="a6982"
      xlink:href="https://en.wikipedia.org/wiki/Equatorial_Guinea"
      xlink:title="Republic of Equatorial Guinea"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -7707,7 +7710,7 @@
      id="a7458"
      xlink:title="Kingdom of Lesotho"
      xlink:href="https://en.wikipedia.org/wiki/Lesotho"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -7722,7 +7725,7 @@
      id="a7341"
      xlink:href="https://en.wikipedia.org/wiki/Bulgaria"
      xlink:title="Republic of Bulgaria"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -7737,7 +7740,7 @@
      id="a7004"
      xlink:href="https://en.wikipedia.org/wiki/Burundi"
      xlink:title="Republic of Burundi"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -7752,7 +7755,7 @@
      id="a7024"
      xlink:title="Republic of Djibouti"
      xlink:href="https://en.wikipedia.org/wiki/Djibouti"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#3355dd;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -7767,7 +7770,7 @@
      class="landxx coastxx az"
      id="az"
      style="opacity:1;fill:#f0e847;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title1625">Azerbaijan</title>
     <g
@@ -7807,7 +7810,7 @@
      id="a8941"
      xlink:href="https://en.wikipedia.org/wiki/Iran"
      xlink:title="Islamic Republic of Iran"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#80352a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -7842,7 +7845,7 @@
      id="a7885"
      xlink:href="https://en.wikipedia.org/wiki/Malaysia"
      xlink:title="Malaysia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-14.614351,-16.12956)"
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
@@ -7920,7 +7923,7 @@
      id="a8743"
      xlink:href="https://en.wikipedia.org/wiki/Philippines"
      xlink:title="Republic of the Philippines"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -8162,7 +8165,7 @@
      id="a7483"
      xlink:href="https://en.wikipedia.org/wiki/Uruguay"
      xlink:title="Oriental Republic of Uruguay"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8177,7 +8180,7 @@
      id="a7000"
      xlink:href="https://en.wikipedia.org/wiki/Republic_of_the_Congo"
      xlink:title="Republic of the Congo"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8192,7 +8195,7 @@
      id="a7363"
      xlink:href="https://en.wikipedia.org/wiki/Montenegro"
      xlink:title="Montenegro"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="me">
@@ -8217,7 +8220,7 @@
      id="a7415"
      xlink:href="https://en.wikipedia.org/wiki/Estonia"
      xlink:title="Republic of Estonia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -8253,7 +8256,7 @@
      id="a7008"
      xlink:href="https://en.wikipedia.org/wiki/Uganda"
      xlink:title="Republic of Uganda"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8277,7 +8280,7 @@
      id="a7110"
      xlink:href="https://en.wikipedia.org/wiki/Senegal"
      xlink:title="Republic of Senegal"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#1fff1c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8292,7 +8295,7 @@
      id="a7070"
      xlink:href="https://en.wikipedia.org/wiki/Togo"
      xlink:title="Togolese Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8307,7 +8310,7 @@
      id="a8213"
      xlink:href="https://en.wikipedia.org/wiki/Spain"
      xlink:title="Kingdom of Spain"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -8371,7 +8374,7 @@
      id="a6976"
      xlink:href="https://en.wikipedia.org/wiki/Gabon"
      xlink:title="Gabonese Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -8395,7 +8398,7 @@
      id="a7337"
      xlink:href="https://en.wikipedia.org/wiki/Hungary"
      xlink:title="Hungary"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8410,7 +8413,7 @@
      id="a6617"
      xlink:href="https://en.wikipedia.org/wiki/Malawi"
      xlink:title="Republic of Malawi"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8425,7 +8428,7 @@
      id="a7244"
      xlink:href="https://en.wikipedia.org/wiki/Tajikistan"
      xlink:title="Republic of Tajikistan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#3355dd;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -8440,7 +8443,7 @@
      id="a8864"
      xlink:href="https://en.wikipedia.org/wiki/Cambodia"
      xlink:title="Kingdom of Cambodia"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -8472,7 +8475,7 @@
      id="a8804"
      xlink:href="https://en.wikipedia.org/wiki/South_Korea"
      xlink:title="Republic of Korea"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -8524,7 +8527,7 @@
      id="a7728"
      xlink:href="https://en.wikipedia.org/wiki/Honduras"
      xlink:title="Republic of Honduras"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -8548,7 +8551,7 @@
      id="a8682"
      xlink:href="https://en.wikipedia.org/wiki/Iceland"
      xlink:title="Iceland"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8563,7 +8566,7 @@
      id="a7714"
      xlink:href="https://en.wikipedia.org/wiki/Nicaragua"
      xlink:title="Republic of Nicaragua"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -8578,7 +8581,7 @@
      id="a7487"
      xlink:href="https://en.wikipedia.org/wiki/Chile"
      xlink:title="Republic of Chile"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -9216,7 +9219,7 @@
      id="a8949"
      xlink:href="https://en.wikipedia.org/wiki/Morocco"
      xlink:title="Kingdom of Morocco"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ee1af9;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9231,7 +9234,7 @@
      id="a7082"
      xlink:href="https://en.wikipedia.org/wiki/Liberia"
      xlink:title="Republic of Liberia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9246,7 +9249,7 @@
      id="a8251"
      xlink:href="https://en.wikipedia.org/wiki/Netherlands"
      xlink:title="Netherlands"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-44.516051,-61.20406)"
        id="nl">
@@ -9316,7 +9319,7 @@
      id="a6972"
      xlink:href="https://en.wikipedia.org/wiki/Central_African_Republic"
      xlink:title="Central African Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9331,7 +9334,7 @@
      id="a7146"
      xlink:href="https://en.wikipedia.org/wiki/Slovakia"
      xlink:title="Slovak Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9346,7 +9349,7 @@
      id="a7407"
      xlink:href="https://en.wikipedia.org/wiki/Lithuania"
      xlink:title="Republic of Lithuania"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#f0e847;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -9361,7 +9364,7 @@
      id="a8137"
      xlink:href="https://en.wikipedia.org/wiki/Zimbabwe"
      xlink:title="Republic of Zimbabwe"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9376,7 +9379,7 @@
      id="a8872"
      xlink:href="https://en.wikipedia.org/wiki/Sri_Lanka"
      xlink:title="Democratic Socialist Republic of Sri Lanka"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -9402,7 +9405,7 @@
      id="a7292"
      xlink:href="https://en.wikipedia.org/wiki/Israel"
      xlink:title="State of Israel"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9417,7 +9420,7 @@
      id="a8739"
      xlink:title="Lao People's Democratic Republic"
      xlink:href="https://en.wikipedia.org/wiki/Laos"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9432,7 +9435,7 @@
      id="a7596"
      xlink:href="https://en.wikipedia.org/wiki/North_Korea"
      xlink:title="Democratic People's Republic of Korea (DPRK)"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9447,7 +9450,7 @@
      id="a7150"
      xlink:href="https://en.wikipedia.org/wiki/Greece"
      xlink:title="Hellenic Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
@@ -9611,7 +9614,7 @@
      id="a7258"
      xlink:href="https://en.wikipedia.org/wiki/Turkmenistan"
      xlink:title="Republic of Turkmenistan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9626,7 +9629,7 @@
      id="a7686"
      xlink:href="https://en.wikipedia.org/wiki/Ecuador"
      xlink:title="Republic of Ecuador"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -9682,7 +9685,7 @@
      id="a7066"
      xlink:href="https://en.wikipedia.org/wiki/Benin"
      xlink:title="Republic of Benin"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9697,7 +9700,7 @@
      id="a7454"
      xlink:href="https://en.wikipedia.org/wiki/Slovenia"
      xlink:title="Republic of Slovenia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -9712,7 +9715,7 @@
      id="a8567"
      xlink:href="https://en.wikipedia.org/wiki/Norway"
      xlink:title="Kingdom of Norway"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#e75353;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -10108,7 +10111,7 @@
      id="a7195"
      xlink:href="https://en.wikipedia.org/wiki/Moldova"
      xlink:title="Republic of Moldova"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="md">
@@ -10143,7 +10146,7 @@
      id="a8268"
      xlink:href="https://en.wikipedia.org/wiki/Ukraine"
      xlink:title="Ukraine"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -10158,7 +10161,7 @@
      id="a7296"
      xlink:href="https://en.wikipedia.org/wiki/Lebanon"
      xlink:title="Lebanese Republic"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="lb">
@@ -10183,7 +10186,7 @@
      id="a8860"
      xlink:title="Federal Democratic Republic of Nepal"
      xlink:href="https://en.wikipedia.org/wiki/Nepal"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ff9a33;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -10198,7 +10201,7 @@
      id="a7028"
      xlink:href="https://en.wikipedia.org/wiki/Eritrea"
      xlink:title="State of Eritrea"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#aa6f33;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.509595,-61.20406)"
@@ -10222,7 +10225,7 @@
      id="a7904"
      xlink:href="https://en.wikipedia.org/wiki/United_States_of_America"
      xlink:title="United States of America"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        style="opacity:1;fill:#3355dd;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(-44.516051,-61.20406)"
@@ -10988,7 +10991,7 @@
      id="a7252"
      xlink:href="https://en.wikipedia.org/wiki/Kazakhstan"
      xlink:title="Republic of Kazakhstan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -11010,7 +11013,7 @@
      id="a7952"
      xlink:href="https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands"
      xlink:title="French Southern and Antarctic Lands"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="fill:#f0e847;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0"
        transform="translate(-44.509595,-61.20406)"
@@ -11036,7 +11039,7 @@
   <g
      class="antxx aq"
      id="aq"
-     transform="translate(-27.722133,-61.20406)"
+     transform="translate(-27.722131,-61.20406)"
      style="fill:#e0e0e0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0">
     <title
        id="title2363">Antarctica</title>
@@ -11513,7 +11516,7 @@
      id="a7973"
      xlink:href="https://en.wikipedia.org/wiki/Eswatini"
      xlink:title="Kingdom of Eswatini"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#801a80;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -11539,7 +11542,7 @@
      id="a7262"
      xlink:href="https://en.wikipedia.org/wiki/Uzbekistan"
      xlink:title="Republic of Uzbekistan"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="opacity:1;fill:#3355dd;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
@@ -11561,7 +11564,7 @@
      id="a7248"
      xlink:href="https://en.wikipedia.org/wiki/Mongolia"
      xlink:title="Mongolia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <path
        style="opacity:1;fill:#f0e847;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -11576,7 +11579,7 @@
      id="a8856"
      xlink:href="https://en.wikipedia.org/wiki/Bhutan"
      xlink:title="Kingdom of Bhutan"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <path
        style="opacity:1;fill:#ee1af9;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
        inkscape:connector-curvature="0"
@@ -11591,7 +11594,7 @@
      id="a7842"
      xlink:href="https://en.wikipedia.org/wiki/New_Caledonia"
      xlink:title="New Caledonia (France)"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="fill:#f0e847;fill-opacity:1"
@@ -11647,7 +11650,7 @@
      id="a7874"
      xlink:href="https://en.wikipedia.org/wiki/Fiji"
      xlink:title="Republic of Fiji"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="fj">
@@ -11703,7 +11706,8 @@
   <a
      id="a3866"
      xlink:href="https://en.wikipedia.org/wiki/Kuwait"
-     xlink:title="State of Kuwait">
+     xlink:title="State of Kuwait"
+     transform="translate(1.7193449e-6)">
     <g
        transform="translate(2.1795678,-16.12956)"
        id="kw">
@@ -11738,7 +11742,7 @@
      id="a7929"
      xlink:href="https://en.wikipedia.org/wiki/East_Timor"
      xlink:title="Democratic Republic of Timor-Leste"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="tl">
@@ -11773,7 +11777,7 @@
      id="a7758"
      xlink:href="https://en.wikipedia.org/wiki/The_Bahamas"
      xlink:title="Commonwealth of The Bahamas"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="bs">
@@ -11887,7 +11891,7 @@
      id="a7854"
      xlink:href="https://en.wikipedia.org/wiki/Vanuatu"
      xlink:title="Republic of Vanuatu"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="vu">
@@ -11968,7 +11972,7 @@
      id="a7462"
      xlink:href="https://en.wikipedia.org/wiki/Falkland_Islands"
      xlink:title="Falkland Islands"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="fill:#c8b396;fill-opacity:1"
@@ -12034,7 +12038,7 @@
      id="a7476"
      xlink:href="https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands"
      xlink:title="South Georgia and the South Sandwich Islands"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="fill:#c8b396;fill-opacity:1"
@@ -12065,7 +12069,7 @@
      id="a7114"
      xlink:href="https://en.wikipedia.org/wiki/The_Gambia"
      xlink:title="Republic of The Gambia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="gm">
@@ -12089,7 +12093,8 @@
   <a
      id="a7601"
      xlink:title="State of Qatar"
-     xlink:href="https://en.wikipedia.org/wiki/Qatar">
+     xlink:href="https://en.wikipedia.org/wiki/Qatar"
+     transform="translate(1.7193449e-6)">
     <g
        transform="translate(2.1795678,-16.12956)"
        id="qa">
@@ -12114,7 +12119,7 @@
      id="a7782"
      xlink:href="https://en.wikipedia.org/wiki/Jamaica"
      xlink:title="Jamaica"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="jm">
@@ -12139,7 +12144,7 @@
      id="a7306"
      xlink:href="https://en.wikipedia.org/wiki/Cyprus"
      xlink:title="Republic of Cyprus"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="cy">
@@ -12203,7 +12208,7 @@
      id="a7738"
      xlink:href="https://en.wikipedia.org/wiki/Puerto_Rico"
      xlink:title="Puerto Rico (USA)"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        style="fill:#3355dd;fill-opacity:1"
@@ -12228,7 +12233,8 @@
   <a
      id="a7610"
      xlink:href="https://en.wikipedia.org/wiki/State_of_Palestine"
-     xlink:title="State of Palestine">
+     xlink:title="State of Palestine"
+     transform="translate(1.7193449e-6)">
     <g
        transform="translate(2.1795678,-16.12956)"
        id="ps">
@@ -12264,7 +12270,7 @@
      id="a7938"
      xlink:href="https://en.wikipedia.org/wiki/Brunei"
      xlink:title="Nation of Brunei, the Abode of Peace"
-     transform="translate(16.787462)"
+     transform="translate(16.787464)"
      xlink:show="Nation of Brunei, the Abode of Peace">
     <g
        transform="translate(-14.607895,-16.12956)"
@@ -12298,7 +12304,7 @@
      id="a7788"
      xlink:href="https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
      xlink:title="Trinidad and Tobago"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="tt">
@@ -12331,7 +12337,7 @@
      id="a7958"
      xlink:href="https://en.wikipedia.org/wiki/Cabo_Verde"
      xlink:title="Republic of Cabo Verde"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="cv">
@@ -12389,7 +12395,7 @@
   <g
      id="pf"
      style="fill:#f0e847;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2661">French Polynesia</title>
     <g
@@ -12450,7 +12456,7 @@
      id="a7896"
      xlink:href="https://en.wikipedia.org/wiki/Samoa"
      xlink:title="Independent State of Samoa"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="ws">
@@ -12483,7 +12489,7 @@
      id="a7401"
      xlink:href="https://en.wikipedia.org/wiki/Luxembourg"
      xlink:title="Grand Duchy of Luxembourg"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="lu">
@@ -12508,7 +12514,7 @@
      id="a6643"
      xlink:href="https://en.wikipedia.org/wiki/Comoros"
      xlink:title="Union of the Comoros"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="km">
@@ -12545,7 +12551,7 @@
      id="a6631"
      xlink:href="https://en.wikipedia.org/wiki/Mauritius"
      xlink:title="Republic of Mauritius"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="mu">
@@ -12569,7 +12575,7 @@
   <g
      id="fo"
      style="fill:#e75353;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2699">Faroe Islands</title>
     <g
@@ -12620,7 +12626,7 @@
      id="a6988"
      xlink:href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
      xlink:title="São Tomé and Príncipe"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="st">
@@ -12652,7 +12658,7 @@
   <g
      id="vi"
      style="fill:#3355dd;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2717">Virgin Islands, U.S.</title>
     <g
@@ -12680,7 +12686,7 @@
   </g>
   <g
      id="cw"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2724">Curacao</title>
     <path
@@ -12699,7 +12705,7 @@
   </g>
   <g
      id="sx"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2729">Sint Maarten (Dutch Part)</title>
     <path
@@ -12720,7 +12726,7 @@
      id="a7820"
      xlink:href="https://en.wikipedia.org/wiki/Dominica"
      xlink:title="Commonwealth of Dominica"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="dm">
@@ -12745,7 +12751,7 @@
      id="a7888"
      xlink:href="https://en.wikipedia.org/wiki/Tonga"
      xlink:title="Kingdom of Tonga"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="to">
@@ -12776,7 +12782,7 @@
   <g
      id="ki"
      style="fill:#66bb66;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2746">Kiribati</title>
     <g
@@ -12806,7 +12812,7 @@
      id="a7923"
      xlink:href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
      xlink:title="Federated States of Micronesia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="fm">
@@ -12830,7 +12836,8 @@
   <a
      id="a7577"
      xlink:href="https://en.wikipedia.org/wiki/Bahrain"
-     xlink:title="Kingdom of Bahrain">
+     xlink:title="Kingdom of Bahrain"
+     transform="translate(1.7193449e-6)">
     <g
        transform="translate(2.1795678,-16.12956)"
        id="bh">
@@ -12855,7 +12862,7 @@
      id="a7448"
      xlink:href="https://en.wikipedia.org/wiki/Andorra"
      xlink:title="Principality of Andorra"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="ad">
@@ -12878,7 +12885,7 @@
   </a>
   <g
      id="mp"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2768">Northern Mariana Islands</title>
     <path
@@ -12897,7 +12904,7 @@
   </g>
   <g
      id="pw"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2773">Palau</title>
     <path
@@ -12918,7 +12925,7 @@
      id="a6637"
      xlink:href="https://en.wikipedia.org/wiki/Seychelles"
      xlink:title="Republic of Seychelles"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="sc">
@@ -12943,7 +12950,7 @@
      id="a7826"
      xlink:href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
      xlink:title="Antigua and Barbuda"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="ag">
@@ -12975,7 +12982,7 @@
      id="a7808"
      xlink:href="https://en.wikipedia.org/wiki/Barbados"
      xlink:title="Barbados"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="bb">
@@ -12999,7 +13006,7 @@
   <g
      id="tc"
      style="fill:#e75353;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2795">Turks and Caicos Islands</title>
     <g
@@ -13034,7 +13041,7 @@
      id="a7802"
      xlink:href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
      xlink:title="Saint Vincent and the Grenadines"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="vc">
@@ -13059,7 +13066,7 @@
      id="a7814"
      xlink:href="https://en.wikipedia.org/wiki/Saint_Lucia"
      xlink:title="Saint Lucia"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="lc">
@@ -13084,7 +13091,7 @@
      id="a7796"
      xlink:href="https://en.wikipedia.org/wiki/Grenada"
      xlink:title="Grenada"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="gd">
@@ -13109,7 +13116,7 @@
      id="a7424"
      xlink:href="https://en.wikipedia.org/wiki/Malta"
      xlink:title="Republic of Malta"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="mt">
@@ -13134,7 +13141,7 @@
      id="a7946"
      xlink:href="https://en.wikipedia.org/wiki/Maldives"
      xlink:title="Republic of Maldives"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="mv">
@@ -13157,7 +13164,7 @@
   </a>
   <g
      id="ky"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2828">Cayman Islands</title>
     <path
@@ -13178,7 +13185,7 @@
      id="a7834"
      xlink:href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
      xlink:title="Saint Kitts and Nevis"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="kn">
@@ -13208,7 +13215,7 @@
   </a>
   <g
      id="ms"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2840">Montserrat</title>
     <path
@@ -13227,7 +13234,7 @@
   </g>
   <g
      id="bl"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2845">Saint Barthelemy</title>
     <path
@@ -13246,7 +13253,7 @@
   </g>
   <g
      id="nu"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2850">Niue</title>
     <path
@@ -13266,7 +13273,7 @@
   <g
      id="pm"
      style="fill:#f0e847;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2855">Saint Pierre and Miquelon</title>
     <path
@@ -13285,7 +13292,7 @@
   </g>
   <g
      id="ck"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2860">Cook Islands</title>
     <g
@@ -13311,7 +13318,7 @@
   </g>
   <g
      id="wf"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2867">Wallis and Futuna</title>
     <path
@@ -13330,7 +13337,7 @@
   </g>
   <g
      id="as"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2872">American Samoa</title>
     <path
@@ -13351,7 +13358,7 @@
      id="a7917"
      xlink:href="https://en.wikipedia.org/wiki/Marshall_Islands"
      xlink:title="Republic of the Marshall Islands"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        style="opacity:1;fill:#66bb66;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000001"
        transform="translate(48.681306,-28.38826)"
@@ -13376,7 +13383,7 @@
   </a>
   <g
      id="aw"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2882">Aruba</title>
     <path
@@ -13397,7 +13404,7 @@
      id="a7395"
      xlink:href="https://en.wikipedia.org/wiki/Liechtenstein"
      xlink:title="Principality of Liechtenstein"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="li">
@@ -13420,7 +13427,7 @@
   </a>
   <g
      id="vg"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2892">Virgin Islands, British</title>
     <g
@@ -13446,7 +13453,7 @@
   </g>
   <g
      id="sh"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2899">Saint Helena, Ascension and Tristan Da Cunha</title>
     <path
@@ -13465,7 +13472,7 @@
   </g>
   <g
      id="je"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2904">Jersey</title>
     <path
@@ -13484,7 +13491,7 @@
   </g>
   <g
      id="ai"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2909">Anguilla</title>
     <path
@@ -13504,7 +13511,7 @@
   <g
      id="mf"
      style="fill:#f0e847;fill-opacity:1"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2914">Saint-Martin (French Part)</title>
     <path
@@ -13523,7 +13530,7 @@
   </g>
   <g
      id="gg"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2919">Guernsey</title>
     <path
@@ -13544,7 +13551,7 @@
      id="a7436"
      xlink:href="https://en.wikipedia.org/wiki/San_Marino"
      xlink:title="Republic of San Marino"
-     transform="translate(16.787462)"
+     transform="translate(16.787464)"
      style="fill:#66bbe8;fill-opacity:1">
     <g
        transform="translate(-14.607895,-16.12956)"
@@ -13569,7 +13576,7 @@
   </a>
   <g
      id="bm"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2929">Bermuda</title>
     <path
@@ -13590,7 +13597,7 @@
      id="a7905"
      xlink:href="https://en.wikipedia.org/wiki/Tuvalu"
      xlink:title="Tuvalu"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="tv">
@@ -13615,7 +13622,7 @@
      id="a7911"
      xlink:href="https://en.wikipedia.org/wiki/Nauru"
      xlink:title="Republic of Nauru"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="nr">
@@ -13638,7 +13645,7 @@
   </a>
   <g
      id="gi"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2944">Gibraltar</title>
     <path
@@ -13657,7 +13664,7 @@
   </g>
   <g
      id="pn"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2949">Pitcairn</title>
     <path
@@ -13678,7 +13685,7 @@
      id="a7442"
      xlink:href="https://en.wikipedia.org/wiki/Monaco"
      xlink:title="Principality of Monaco"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="mc">
@@ -13703,7 +13710,7 @@
      id="a7430"
      xlink:href="https://en.wikipedia.org/wiki/Vatican_City_State"
      xlink:title="Vatican City State"
-     transform="translate(16.787462)">
+     transform="translate(16.787464)">
     <g
        transform="translate(-14.607895,-16.12956)"
        id="va">
@@ -13726,7 +13733,7 @@
   </a>
   <g
      id="im"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2964">Isle of Man</title>
     <path
@@ -13745,7 +13752,7 @@
   </g>
   <g
      id="gu"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2969">Guam</title>
     <path
@@ -13766,7 +13773,7 @@
      id="a7707"
      xlink:href="https://en.wikipedia.org/wiki/Singapore"
      xlink:title="Republic of Singapore"
-     transform="translate(16.793918)">
+     transform="translate(16.79392)">
     <g
        transform="translate(-14.614351,-16.12956)"
        id="sg">
@@ -13789,7 +13796,7 @@
   </a>
   <g
      id="nf"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2979">Norfolk Island</title>
     <path
@@ -13808,7 +13815,7 @@
   </g>
   <g
      id="tk"
-     transform="translate(2.1795678,-16.12956)">
+     transform="translate(2.1795695,-16.12956)">
     <title
        id="title2984">Tokelau</title>
     <path
@@ -13829,7 +13836,7 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.53569698;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect7280"
      width="2756.1372"
-     height="1403.0269"
+     height="1466.5266"
      x="-41.46767"
      y="1424.6439"
      ry="0" />
@@ -13837,7 +13844,7 @@
      id="a7583"
      xlink:href="https://en.wikipedia.org/wiki/Theocracy"
      xlink:title="Theocracy"
-     transform="translate(0.01025723,-75.593728)">
+     transform="translate(0.01025895,-8.4308881)">
     <rect
        style="opacity:1;fill:#80352a;fill-opacity:1;stroke:none;stroke-width:3.02379799;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7324-2-2-4-3-3"
@@ -13850,7 +13857,7 @@
      target=""
      xlink:href="https://en.wikipedia.org/wiki/Theocracy"
      id="a10775-6-6"
-     transform="translate(3.64434,384.17309)"
+     transform="translate(3.6443417,451.33593)"
      xlink:title="Theocracy">
     <text
        xml:space="preserve"
@@ -13868,7 +13875,7 @@
      id="a7629"
      xlink:href="https://en.wikipedia.org/wiki/Constitutional_monarchy"
      xlink:title="Parliamentary constitutional monarchy"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="1593.793"
        x="-36.186279"
@@ -13881,7 +13888,7 @@
      id="a8974"
      xlink:href="https://en.wikipedia.org/wiki/Constitutional_monarchy"
      xlink:title="Parliamentary constitutional monarchy"
-     transform="translate(2.1690726)">
+     transform="translate(2.1690743)">
     <text
        id="text7318"
        y="1685.694"
@@ -13899,7 +13906,7 @@
      id="a8966"
      xlink:href="https://en.wikipedia.org/wiki/Monarchy"
      xlink:title="Monarchy"
-     transform="translate(-0.54112807)">
+     transform="translate(-0.54112635)">
     <text
        id="text7322"
        y="1492.5563"
@@ -13916,7 +13923,7 @@
      id="a7635"
      xlink:href="https://en.wikipedia.org/wiki/Absolute_monarchy"
      xlink:title="Absolute monarchy"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="1512.1504"
        x="-36.186279"
@@ -13929,7 +13936,7 @@
      id="a8970"
      xlink:href="https://en.wikipedia.org/wiki/Absolute_monarchy"
      xlink:title="Absolute monarchy"
-     transform="translate(1.4308807)">
+     transform="translate(1.4308824)">
     <text
        id="text7318-3"
        y="1551.9269"
@@ -13946,7 +13953,7 @@
      id="a7632"
      xlink:href="https://en.wikipedia.org/wiki/Constitutional_monarchy"
      xlink:title="Dual system constitutional monarchy"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="1769.514"
        x="-36.186279"
@@ -13959,7 +13966,7 @@
      id="a7622"
      xlink:href="https://en.wikipedia.org/wiki/Constitutional_monarchy"
      xlink:title="Dual system constitutional monarchy"
-     transform="translate(2.1643214)">
+     transform="translate(2.1643231)">
     <text
        id="text7318-5"
        y="1810.8235"
@@ -13975,7 +13982,7 @@
   <a
      id="a9108"
      xlink:href="https://en.wikipedia.org/wiki/Republic"
-     transform="translate(-0.54112772,94.078519)">
+     transform="translate(-0.541126,94.078519)">
     <text
        id="text7381"
        y="1800.9836"
@@ -13992,7 +13999,7 @@
      id="a7605"
      xlink:href="https://en.wikipedia.org/wiki/Presidential_system"
      xlink:title="Presidential republic"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="1932.7993"
        x="-36.186279"
@@ -14005,7 +14012,7 @@
      id="a9104"
      xlink:href="https://en.wikipedia.org/wiki/Presidential_system"
      xlink:title="Presidential republic"
-     transform="translate(4.3335442,97.239001)">
+     transform="translate(4.3335459,97.239001)">
     <text
        id="text7318-3-9"
        y="1750.2083"
@@ -14027,7 +14034,8 @@
   <a
      id="a7616"
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
-     xlink:title="Premier-presidential republic">
+     xlink:title="Premier-presidential republic"
+     transform="translate(1.7193449e-6)">
     <rect
        y="2024.4106"
        x="-36.175213"
@@ -14040,7 +14048,7 @@
      id="a7599"
      xlink:href="https://en.wikipedia.org/wiki/Parliamentary_republic"
      xlink:title="Parliamentary republic"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="2215.073"
        x="-36.185471"
@@ -14052,13 +14060,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:56.44422913px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.02379799"
-     x="29.048246"
-     y="2512.6123"
+     x="29.048248"
+     y="2579.7751"
      id="text10312"><tspan
        sodipodi:role="line"
        id="tspan10310"
-       x="29.048246"
-       y="2512.6123"
+       x="29.048248"
+       y="2579.7751"
        style="stroke-width:3.02379799"><tspan
    style="font-weight:bold"
    id="tspan10314">Other</tspan> </tspan></text>
@@ -14068,12 +14076,12 @@
      width="60.475964"
      height="60.475964"
      x="-36.176014"
-     y="2528.2957" />
+     y="2595.4585" />
   <a
      id="a9124"
      xlink:href="https://en.wikipedia.org/wiki/One-party_state"
      xlink:title="One-party state"
-     transform="translate(2.1361997,305.55233)">
+     transform="translate(2.1362014,372.71517)">
     <text
        id="text7318-3-9-5"
        y="2262.5195"
@@ -14090,7 +14098,7 @@
      id="a7586"
      xlink:href="https://en.wikipedia.org/wiki/Military_dictatorship"
      xlink:title="Military dictatorship"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895,67.162843)">
     <rect
        y="2603.8906"
        x="-36.186272"
@@ -14103,7 +14111,7 @@
      id="a7639"
      xlink:href="https://en.wikipedia.org/wiki/Military_dictatorship"
      xlink:title="Military dictatorship"
-     transform="translate(2.1540684)">
+     transform="translate(2.1540701,67.162843)">
     <text
        id="text7318-3-9-5-9"
        y="2643.6667"
@@ -14122,23 +14130,23 @@
      width="60.475956"
      height="60.475964"
      x="-36.176014"
-     y="2755.0811" />
+     y="2822.2439" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:120.95192719px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.02379799"
-     x="31.965729"
-     y="2794.8572"
+     x="31.965731"
+     y="2862.02"
      id="text7318-3-9-5-9-0"><tspan
        sodipodi:role="line"
        id="tspan7316-6-0-4-9-5"
-       x="31.965729"
-       y="2794.8572"
+       x="31.965731"
+       y="2862.02"
        style="font-size:36.28557968px;stroke-width:3.02379799">Countries that do not fit any of these moulds.</tspan></text>
   <a
      id="a7592"
      xlink:href="https://en.wikipedia.org/wiki/Parliamentary_republic"
      xlink:title="Parliamentary republic"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="2296.7156"
        x="-36.185463"
@@ -14151,7 +14159,7 @@
      id="a9120"
      xlink:href="https://en.wikipedia.org/wiki/Parliamentary_republic"
      xlink:title="Parliamentary republic"
-     transform="translate(2.0536369,222.13848)">
+     transform="translate(2.0536386,222.13848)">
     <text
        id="text7318-3-9-9-2"
        y="2114.3538"
@@ -14168,7 +14176,7 @@
      id="a7589"
      xlink:href="https://en.wikipedia.org/wiki/Directorial_system"
      xlink:title="Directorial republic"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="2378.3589"
        x="-36.185452"
@@ -14181,7 +14189,7 @@
      id="a9120-6"
      xlink:href="https://en.wikipedia.org/wiki/Directorial_system"
      xlink:title="Directorial republic"
-     transform="translate(2.0536369,303.78154)">
+     transform="translate(2.0536386,303.78154)">
     <text
        id="text7318-3-9-9-2-7"
        y="2114.3538"
@@ -14198,7 +14206,7 @@
      id="a7602"
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
      xlink:title="Presidential-parliamentary republic"
-     transform="translate(0.01025723)">
+     transform="translate(0.01025895)">
     <rect
        y="2124.0027"
        x="-36.186279"
@@ -14211,7 +14219,7 @@
      id="a6727"
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
      xlink:title="Semi-presidential system"
-     transform="translate(-1.7734437)">
+     transform="translate(-1.773442)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:120.95192719px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.02379799"
@@ -14228,7 +14236,7 @@
      id="a7608"
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
      xlink:title="Premier-presidential republic"
-     transform="translate(2.1540684)">
+     transform="translate(2.1540701)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:120.95192719px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.02379799"
@@ -14258,7 +14266,7 @@
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
      xlink:title="Semi-presidential system" />
   <a
-     transform="translate(2.7016259,12.417037)"
+     transform="translate(2.7016276,12.417037)"
      id="a6727-5-2"
      xlink:href="https://en.wikipedia.org/wiki/Semi-presidential_system"
      xlink:title="Presidential-parliamentary republic">
@@ -14288,7 +14296,7 @@
      id="a7595"
      xlink:href="https://en.wikipedia.org/wiki/Parliamentary_republic"
      xlink:title="Parliamentary republic"
-     transform="translate(2.1540684)">
+     transform="translate(2.1540701)">
     <text
        id="text6858"
        y="2254.8484"
@@ -14305,7 +14313,7 @@
      id="a7626"
      xlink:href="https://en.wikipedia.org/wiki/Commonwealth_realm"
      xlink:title="Commonwealth realm"
-     transform="translate(0.01024579)">
+     transform="translate(0.01024751)">
     <rect
        y="1681.6708"
        x="-36.186268"
@@ -14318,7 +14326,7 @@
      id="a8970-6"
      xlink:href="https://en.wikipedia.org/wiki/Commonwealth_realm"
      xlink:title="Commonwealth realm"
-     transform="translate(-0.28772338,150.82006)">
+     transform="translate(-0.28772166,150.82006)">
     <text
        id="text7318-3-7"
        y="1551.9269"
@@ -14336,4 +14344,29 @@
          sodipodi:role="line"
          id="tspan11725">is granted broad executive power, but seldom ever exercises it, except on the advice of elected officials.</tspan></text>
   </a>
+  <a
+     id="a7589-3"
+     xlink:href="https://en.wikipedia.org/wiki/Directorial_system"
+     xlink:title="Directorial republic"
+     transform="translate(0.00943117,82.688048)"
+     style="fill:#009292;fill-opacity:1">
+    <rect
+       y="2378.3589"
+       x="-36.185452"
+       height="60.475964"
+       width="60.475964"
+       id="rect7324-2-1-0-3-6"
+       style="opacity:1;fill:#009292;fill-opacity:1;stroke:none;stroke-width:3.02379799;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40.31730652px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.02379799"
+     x="31.040791"
+     y="2499.7786"
+     id="text3892"><tspan
+       sodipodi:role="line"
+       id="tspan3890"
+       x="31.040791"
+       y="2499.7786"
+       style="font-size:36.28557587px;stroke-width:3.02379799">Mixed: strong presidency that, while elected by the legislature, is not held accountable to it. </tspan></text>
 </svg>
